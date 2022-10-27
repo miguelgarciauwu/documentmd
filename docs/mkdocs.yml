@@ -1,0 +1,5 @@
+site_name: Documentacion LO
+nav:
+-inicio: 'index.md'
+-Prueba01: 'prueba01.md'
+theme: readthedocs
