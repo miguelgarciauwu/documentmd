@@ -1,4 +1,4 @@
-site_name: Documentacion LO
+site_name: Documentacion LO mkdocs
 nav:
 -inicio: 'index.md'
 -Prueba01: 'prueba01.md'
